@@ -62,7 +62,7 @@ This repository is a bar chart example developed to use on Power BI.
 
 * [Power BI](https://powerbi.microsoft.com)
 * [Node JS](https://nodejs.org)
-* []()
+* [Power BI Visual Tools](https://www.npmjs.com/package/powerbi-visuals-tools)
 
 ## Getting Started
 
